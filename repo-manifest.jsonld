@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-rest-knox/commit/c3522713e03ff8990c16c327a125630a0c16170e",
       "git:hexsha": "c3522713e03ff8990c16c327a125630a0c16170e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-rest-knox/commit/6393732f69761a0bfa4c6f0c479e03ccf15aa47f",

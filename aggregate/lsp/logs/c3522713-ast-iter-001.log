@@ -1,0 +1,7 @@
+[2026-10-11T01:57:31Z] === AST ITERATION 1 START | repo=jazzband/django-rest-knox sha=c3522713 ===
+[2026-10-11T01:57:31Z] [iter=1] PHASE START: ast repo=jazzband/django-rest-knox sha=c3522713
+[2026-10-11T01:57:31Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T01:57:36Z] [iter=1] AST chunks built count=1 triples=85731
+[2026-10-11T01:57:36Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c3522713e03ff8990c16c327a125630a0c16170e/.complete
+[2026-10-11T01:57:36Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-10-11T01:57:36Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
